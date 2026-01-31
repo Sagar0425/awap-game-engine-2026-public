@@ -9,3 +9,6 @@ SWITCH: turn=250 duration=100
 
 ORDERS:
 start=0  duration=200  required=NOODLES,MEAT           reward=10000 penalty=3
+start=0  duration=200  required=NOODLES,MEAT           reward=10000 penalty=3
+start=100  duration=50  required=NOODLES           reward=500 penalty=400
+start=0  duration=200  required=NOODLES,MEAT,EGG           reward=20000 penalty=3
