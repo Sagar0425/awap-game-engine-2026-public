@@ -240,3 +240,4 @@ class BotPlayer:
             if controller.get_map().is_tile_walkable(nx, ny):
                 controller.move(bot_id, dx, dy)
                 return
+hello
